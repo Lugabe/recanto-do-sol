@@ -185,6 +185,13 @@ button:active {
     margin-bottom: 20px;
 }
 
+.localizacao {
+    text-align: center;
+}
+
+iframe {
+    width: 1000px;
+}
 
 
 
@@ -206,12 +213,14 @@ button:active {
 
     .div-fotos,
     .div-fotos2,
-    .pratos {
-      
-    }
+    .pratos {}
 
     .galeria {
         width: 200px;
         height: 200px;
+    }
+
+    iframe {
+        width: 600px;
     }
 }
